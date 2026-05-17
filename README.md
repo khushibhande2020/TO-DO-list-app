@@ -8,5 +8,5 @@ The app helps users organize tasks efficiently by providing functionality to add
 Data is stored locally on the device, ensuring that tasks remain saved even after the application is closed.
 
 ## Screenshots
-![To do app screen 1](Screenshots/todoapp1.png)
-![To do app screen 2](Screenshots/todoapp2.png)
+![To do app screen 1](todoapp1.png)
+![To do app screen 2](todoapp2.png)
