@@ -1,16 +1,8 @@
-# to_do_list_app
+# Todo List App
 
-A new Flutter project.
+A Todo List mobile application built using Flutter with Sqflite for local database storage.
+The application allows users to manage daily tasks through a simple and user-friendly interface.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Overview
+The app helps users organize tasks efficiently by providing functionality to add, update, view, and delete tasks. 
+Data is stored locally on the device, ensuring that tasks remain saved even after the application is closed.
